@@ -31,7 +31,10 @@ Incorporated Data analysis Techniques specializing in time series analysis to de
 accurate sales Forecasting and Interactive Dashboard creation Driving Business success.
 
 # Dashboard Snapshot
-
+ Snapshot1
+ https://github.com/ADITI23-22/Sales-data-Analysis-/blob/main/Dashboard_Snapshot1.png?raw=true
+ Snapshot2
+ 
 
 
  
