@@ -33,8 +33,9 @@ accurate sales Forecasting and Interactive Dashboard creation Driving Business s
 # Dashboard Snapshot
  Snapshot1
  https://github.com/ADITI23-22/Sales-data-Analysis-/blob/main/Dashboard_Snapshot1.png?raw=true
- Snapshot2
  
+ Snapshot2
+ https://github.com/ADITI23-22/Sales-data-Analysis-/blob/main/Dashboard_snapshot2.png?raw=true
 
 
  
